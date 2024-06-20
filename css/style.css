@@ -1,0 +1,77 @@
+.nav-item{
+    margin-right: 80px;
+}
+.doe-agora{
+    background-color: #E72929;
+    color: white;
+}
+.text-white{
+    color: white;
+}
+.w-25{
+    width: 25%;
+}
+.w-50{
+    width: 50%;
+}
+.w-70{
+    width: 70%;
+}
+.w-80{
+    width: 80%;
+}
+.w-98_2{
+    width: 98.2%;
+}
+.header{
+    display: flex;
+    background-image: url(../img/pexels-rdne-8580732.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 650px;
+}
+.header-DA{
+    display: flex;
+    background-image: url(../img/pexels-julia-m-cameron-6994982.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 650px;
+}
+.header-FC{
+    display: flex;
+    background-image: url(../img/pexels-rdne-6646949.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 650px;
+}
+.header-PDC{
+    display: flex;
+    background-image: url(../img/pexels-rdne-6646918.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+.p{
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
+.text-black{
+    color: black;
+}
+.text-red{
+    color: red;
+}
+.bi{
+    padding-right: 25px;
+}
+.div-card{
+    margin-top: 2%;
+}
+.mt-7{
+    margin-top: 7%;
+}
